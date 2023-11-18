@@ -339,6 +339,10 @@ body {
   line-height: 138.5%;
   color: #000;
   margin: 0px 0px 4px 0px;
+  border: 2px solid black;
+  border-radius: 10px;
+  padding: 3px 5px 3px 5px;
+  margin: 0px 0px 10px 0px;
 }
 .item-healthcare__text {
   line-height: 138.5%;
@@ -449,16 +453,40 @@ body {
 }
 .opisan {
   font-size: 13px;
+  color: #201e1e;
+}
+.merc {
+  font-size: 15px;
+  color: #161515;
+  padding: 0px 0px 3px 0px;
 }
 .modal.open .modal__box {
   transform: scale(1);
 }
 .avto {
-  color: black;
+  /* color: black;
   background-color: white;
   padding: 5px;
   font-size: 15px;
   border: 2px solid black;
   border-radius: 10px;
-  cursor: pointer;
+  cursor: pointer;  */
+  display: inline-block;
+  font-family: Raleway;
+  text-transform: uppercase;
+  font-weight: 800;
+  font-size: 12px;
+  line-height: 12px;
+  letter-spacing: 1px;
+  color: #fcfdfe;
+  padding: 13px 30px;
+  border-radius: 5px;
+  background-color: #4285f4;
+  transition: background-color 0.3s ease 0s;
+}
+.audi {
+  font-size: 18px;
+  color: #000;
+  font-weight: 600;
+  padding: 0px 0px 5px 0px;
 }
