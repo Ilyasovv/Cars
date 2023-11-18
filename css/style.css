@@ -448,7 +448,7 @@ body {
   opacity: 1;
 }
 .opisan {
-  font-size: 12px;
+  font-size: 13px;
 }
 .modal.open .modal__box {
   transform: scale(1);
