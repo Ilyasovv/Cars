@@ -491,3 +491,6 @@ body {
   font-weight: 600;
   padding: 0px 0px 5px 0px;
 }
+.pad {
+  padding: 3px 0px 3px 0px;
+}
