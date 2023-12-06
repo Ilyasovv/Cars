@@ -494,3 +494,7 @@ body {
 .pad {
   padding: 3px 0px 3px 0px;
 }
+.inst {
+  width: 35px;
+  height: 35px;
+}
